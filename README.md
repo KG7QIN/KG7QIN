@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kg7qin&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kg7qin&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kg7qin&theme=transparent&utcOffset=8) 
+![](https://github-readme-activity-graph.vercel.app/graph?username=kg7qin&bg_color=ffffff&color=000000&line=0066ff&point=000000&area=false&hide_border=true)
 
 <!--
 ** Old stats page
