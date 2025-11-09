@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Visit my wiki at:  https://wiki.kg7qin.org/index.php/Main_Page
+
 <!--
 **KG7QIN/KG7QIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
